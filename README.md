@@ -1,4 +1,4 @@
-<a href="https://ibb.co/crfpK49"><img src="https://i.ibb.co/9rKfmQ0/head.png" alt="head" border="0"></a>
+<a href="https://ibb.co/crfpK49"><img src="https://i.ibb.co/9rKfmQ0/head.png" alt="head" border="0" style="float:center"></a>
 <center>
 <table>
     <tr>
@@ -7,4 +7,4 @@
     </tr>   
 </table>
 </center>  
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS) 
+![](https://komarev.com/ghpvc/?username=your-github-ErciliaR&label=PROFILE+VIEWS) 
