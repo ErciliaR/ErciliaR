@@ -1,4 +1,4 @@
-### Texto de boas vindas <img src="https://www.canva.com/design/DAENVAdKeGw/efIpcoSQeDI8n0tHU9pjbA/view?utm_content=DAENVAdKeGw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="30px"></h2>
+<img src="https://www.canva.com/design/DAENVAdKeGw/efIpcoSQeDI8n0tHU9pjbA/view?utm_content=DAENVAdKeGw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="30px"></h2>
 
 <center>
 <table>
