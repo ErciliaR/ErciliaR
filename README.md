@@ -1,7 +1,4 @@
-### Texto de boas vindas <img src="C:\Users\ercil\Desktop\Generation\head" width="30px"></h2>
-
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErciliaR&hide=html&layout=compact&theme=buefy" />  
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ErciliaR&theme=buefy"/>
+### Texto de boas vindas <img src="https://www.canva.com/design/DAENVAdKeGw/efIpcoSQeDI8n0tHU9pjbA/view?utm_content=DAENVAdKeGw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="30px"></h2>
 
 <center>
 <table>
