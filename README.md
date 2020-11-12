@@ -1,4 +1,3 @@
-<img src="https://github.com/ErciliaR/ErciliaR/blob/main/head.png" width="30px"></h2>
 
 <center>
 <table>
