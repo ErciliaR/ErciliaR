@@ -4,19 +4,19 @@
 </center>
 
 <center>
-<table border="0">
-    <tr>
-        <td><img width="420px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErciliaR&hide=html&layout=compact&anuraghazra&theme=radical&show_icons=true" /></td>
-        <td><img width="420px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=ErciliaR&anuraghazra&theme=radical&show_icons=true"/></td>
+<table border="none" rules="none">
+    <tr width="100%">
+        <td border="none"><img width="400px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErciliaR&hide=html&layout=compact&anuraghazra&theme=radical&show_icons=true" /></td>
+        <td border="none"><img width="400px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=ErciliaR&anuraghazra&theme=radical&show_icons=true"/></td>
     </tr>   
 </table>
 </center>  
 
 <center>
-<table border="0">
-    <tr>
-        <td><img width="420px" height="200px" align="letf" src="https://github-readme-stats.vercel.app/api/pin/?username=ErciliaR&repo=Aulas-Java&anuraghazra&theme=radical&show_icons=true&show_owner=true"/></td>
-        <td><img width="420px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ErciliaR&repo=Aulas-Portugol&anuraghazra&theme=radical&show_icons=true&show_owner=true"/></td>
+<table border="0" cellspacing="0" rules="none">
+    <tr width="100%">
+        <td><img width="400px" height="200px" align="letf" src="https://github-readme-stats.vercel.app/api/pin/?username=ErciliaR&repo=Aulas-Java&anuraghazra&theme=radical&show_icons=true&show_owner=true"/></td>
+        <td><img width="400px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ErciliaR&repo=Aulas-Portugol&anuraghazra&theme=radical&show_icons=true&show_owner=true"/></td>
     </tr>   
 </table>
 </center> 
