@@ -1,4 +1,4 @@
-<a href="https://ibb.co/kQJSBhR"><img src="https://i.ibb.co/86b7sjW/head.png" alt="head" border="0" wedth="100%"></a>
+<a href="https://ibb.co/kQJSBhR"><img src="https://i.ibb.co/86b7sjW/head.png" alt="head" border="0" width="100%"></a>
 <center>
 <table>
     <tr>
@@ -7,4 +7,4 @@
     </tr>   
 </table>
 </center>  
-(https://github-readme-stats.vercel.app/api/pin/?ErciliaR=anuraghazra&repo=github-readme-stats)
+![](https://komarev.com/ghpvc/?username=ErciliaR&color=blue&style=flat)
