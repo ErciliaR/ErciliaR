@@ -1,6 +1,6 @@
 
 <center>
-    <a href="https://ibb.co/kQJSBhR"><img src="https://i.ibb.co/86b7sjW/head.png" alt="head" border="0" width="100%"></a>
+    <a href="https://ibb.co/dmQXJBq"><img src="https://i.ibb.co/9ZqB3nL/head.png" alt="head" border="0" width="100%"></a>
 </center>
 
 <center>
