@@ -15,8 +15,8 @@
 <center>
 <table border="0">
     <tr>
-        <td><img width="440px" height="200px" align="letf" src="https://github-readme-stats.vercel.app/api/pin/?username=ErciliaR&repo=Aulas-Java&anuraghazra&theme=radical&show_icons=true&show_owner=true"/></td>
-        <td><img width="440px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ErciliaR&repo=Aulas-Portugol&anuraghazra&theme=radical&show_icons=true&show_owner=true"/></td>
+        <td><img width="420px" height="200px" align="letf" src="https://github-readme-stats.vercel.app/api/pin/?username=ErciliaR&repo=Aulas-Java&anuraghazra&theme=radical&show_icons=true&show_owner=true"/></td>
+        <td><img width="420px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ErciliaR&repo=Aulas-Portugol&anuraghazra&theme=radical&show_icons=true&show_owner=true"/></td>
     </tr>   
 </table>
 </center> 
