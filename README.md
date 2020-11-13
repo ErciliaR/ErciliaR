@@ -1,4 +1,6 @@
-<a href="https://ibb.co/kQJSBhR"><img src="https://i.ibb.co/86b7sjW/head.png" alt="head" border="0" width="100%"></a>
+<center>
+<a href="https://ibb.co/kQJSBhR"><img src="https://i.ibb.co/86b7sjW/head.png" alt="head" border="0" width="895px"></a>
+<center>
 <center>
 <table>
     <tr>
@@ -7,4 +9,7 @@
     </tr>   
 </table>
 </center>  
-![](https://komarev.com/ghpvc/?username=ErciliaR&color=blue&style=flat)
+
+![](https://komarev.com/ghpvc/?username=ErciliaR&label=PROFILE+VIEWS)
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=ErciliaR&anuraghazra&repo=github-readme-stats)
