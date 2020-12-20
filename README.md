@@ -3,10 +3,17 @@
     <a href="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/head%202.png"><img src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/head%202.png" alt="head" border="0" width="100%"></a>
 </center>
 
-<h3><a id="user-content-where-to-find-me" class="anchor" aria-hidden="true" href="#where-to-find-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Where to find me</h3>
+<h3><a id="user-content-where-to-find-me" class="anchor" aria-hidden="true" href="#where-to-find-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Where to find me:</h3>
 <p>
 <a href="https://www.linkedin.com/in/erc%C3%ADlia-regina-silva-dantas/" rel="nofollow">
 <code><img alt="My linkedin" width="23" src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture10.png" data-canonical-src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture10.png" style="max-width:100%;"></code>
+</a>
+<a href="https://m.facebook.com/profile.php?id=100002918593133" rel="nofollow">
+<code><img alt="My Facebook" width="23" src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture11.png" data-canonical-src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture11.jpg" style="max-width:100%;"></code>
+</a>
+</a>
+<a href="https://www.instagram.com/ercilia_regina/" rel="nofollow">
+<code><img alt="My instagram" width="23" src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture12.jpg" data-canonical-src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture12.jpg" style="max-width:100%;"></code>
 </a>
 <a href="mailto:erciliaregina75@gmail.com">
   <code><img alt="My e-mail" width="32" src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture9.png" data-canonical-src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture9.png" style="max-width:100%;"></code>
