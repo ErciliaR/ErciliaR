@@ -45,5 +45,7 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture8.png"><img height="32" src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture8.png" alt="Trello" style="max-width:100%;"></a></code>
 </p>
 
+<p align="right">
+  <a href="https://komarev.com/ghpvc/?username=ErciliaR&label=PROFILE+VIEWS&color=bb0a1e"><img src="https://komarev.com/ghpvc/?username=ErciliaR&label=PROFILE+VIEWS&color=bb0a1e"></a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=ErciliaR&label=PROFILE+VIEWS&color=bb0a1e)
