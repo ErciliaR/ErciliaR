@@ -55,6 +55,8 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture14.png"><img height="32" src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture14.png" alt="Docker" style="max-width:100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture15.png"><img height="32" src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture15.png" alt="html" style="max-width:100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture16.png"><img height="32" src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture16.png" alt="css" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture17.png"><img height="32" src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture17.png" alt="js" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture18.png"><img height="32" src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture18.png" alt="bootstrap" style="max-width:100%;"></a></code>
 </p>
 <p><strong>Utilities:</strong></p>
 <p><code><a target="_blank" rel="noopener noreferrer" href="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture7.png"><img height="32" src="https://github.com/ErciliaR/ErciliaR/blob/main/for%20my%20github/Picture7.png" alt="Postman" style="max-width:100%;"></a></code>
