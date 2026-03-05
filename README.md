@@ -67,18 +67,6 @@ Practices       Clean Architecture · Code Review · Technical Leadership
 
 ---
 
-## 📊 Coding Activity
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErciliaR&layout=compact&theme=radical&show_icons=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErciliaR&theme=radical&show_icons=true)
-
-</div>
-
----
-
 <div align="right">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ErciliaR&label=PROFILE+VIEWS&color=bb0a1e)
