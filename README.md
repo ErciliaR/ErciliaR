@@ -31,6 +31,12 @@ I've lived and worked in Brazil my whole career, building things that people act
 - Focused on clean architecture, maintainable codebases, and smooth user experiences
 - Using **Xcode & Instruments** to profile, debug, and squeeze every bit of performance out of the apps
 
+**iOS Developer — Eldorado** *(previous)*
+- Built a **multi-platform app (iOS, iPadOS, macOS)** for a foreign client — real cross-platform native, not a shortcut
+- Wore many hats: coordinating, mentoring, testing, deploying, developing, refining, refactoring, reviewing, and maintaining
+- Tech: **UIKit · Combine · Couchbase Lite Mobile**
+- Most proud of: making a fast, clean transition from web to native iOS and never letting momentum drop — proof that the fundamentals transfer
+
 **Frontend Developer — Venturus** *(previous)*
 - Worked on a platform with a large and active user base — scale that demands discipline
 - Most proud of: building genuine trust and cooperation with the client, becoming a true technical partner, not just a vendor
@@ -43,6 +49,7 @@ I've lived and worked in Brazil my whole career, building things that people act
 ```
 Language        Swift
 UI              SwiftUI · UIKit
+Reactive        Combine
 Concurrency     Swift Concurrency (async/await · actors)
 Tooling         Xcode · Instruments · TestFlight
 Practices       Clean Architecture · Code Review · Technical Leadership
